@@ -1,6 +1,5 @@
 🍪 Chai Cookie Co. Sales Analytics
-![Chai Cookie Co. Logo](assets/logo.png)
-
+![Chai Cookie Co. Logo](https://github.com/asinsaini1910/cookie-sales-analytics/blob/main/assets/logo.png?raw=true)
 
 📊 Project Overview
 Welcome to the Chai Cookie Co. Sales Analytics Project!
