@@ -1,5 +1,6 @@
 🍪 Chai Cookie Co. Sales Analytics
-!https://github.com/asinsaini1910/cookie-sales-analytics/blob/f54dc6ce6c30559759ba62d3f2cea915bce8ba3b/Chai%20cookie%20image.png
+![Chai Cookie Co. Logo](assets/logo.png)
+
 
 📊 Project Overview
 Welcome to the Chai Cookie Co. Sales Analytics Project!
@@ -60,9 +61,10 @@ Edit
 │
 ├── 📊 PowerBI_Dashboards/
 ├── 📁 SQL_Queries/
-├── 📂 Python_Analysis/
-├── 📈 Excel_Models/
 ├── 📷 Visuals/
-├── 📜 README.md
+├── README.md
+└── assets/
+    └── logo.png
+
 📌 Conclusion
 This project provides a solid beginner-friendly framework to apply SQL, Python, Excel, and Power BI skills on real-world business problems.
