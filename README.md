@@ -1,5 +1,5 @@
 🍪 Chai Cookie Co. Sales Analytics
-!
+!https://github.com/asinsaini1910/cookie-sales-analytics/blob/f54dc6ce6c30559759ba62d3f2cea915bce8ba3b/Chai%20cookie%20image.png
 
 📊 Project Overview
 Welcome to the Chai Cookie Co. Sales Analytics Project!
